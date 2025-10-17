@@ -5,4 +5,4 @@ The slider is designed to be lightweight, responsive, and visually engaging, sho
 JavaScript handles the slide transitions, while CSS adds the animations and layout responsiveness.
 
 ✨ Features
-	
+Smooth automatic and manual slide transitions
