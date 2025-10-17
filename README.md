@@ -14,4 +14,10 @@ Easy-to-customize images and captions
 
 Lightweight—built with pure HTML, CSS, and JS (no frameworks)
 
+🚀 How to Use
 
+Clone or download the project files.
+
+Open index.html in your browser.
+
+Browse through the car slider using navigation arrows.
