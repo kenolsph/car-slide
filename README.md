@@ -7,6 +7,11 @@ JavaScript handles the slide transitions, while CSS adds the animations and layo
 ✨ Features
 
 Smooth manual slide transitions
+
 Responsive design for all screen sizes
+
 Easy-to-customize images and captions
+
 Lightweight—built with pure HTML, CSS, and JS (no frameworks)
+
+
