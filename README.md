@@ -3,7 +3,7 @@ It allows users to seamlessly browse through different car models using smooth t
 
 The slider is designed to be lightweight, responsive, and visually engaging, showcasing cars with clean animations and modern styling. 
 JavaScript handles the slide transitions, while CSS adds the animations and layout responsiveness.
-
+ 
 ✨ Features 
 
 Smooth manual slide transitions
